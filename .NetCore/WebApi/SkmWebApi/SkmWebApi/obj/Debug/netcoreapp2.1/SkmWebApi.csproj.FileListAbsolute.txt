@@ -1,0 +1,14 @@
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\bin\Debug\netcoreapp2.1\SkmWebApi.deps.json
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\bin\Debug\netcoreapp2.1\SkmWebApi.runtimeconfig.json
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\bin\Debug\netcoreapp2.1\SkmWebApi.runtimeconfig.dev.json
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\bin\Debug\netcoreapp2.1\SkmWebApi.dll
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\bin\Debug\netcoreapp2.1\SkmWebApi.pdb
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.csproj.CoreCompileInputs.cache
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.RazorAssemblyInfo.cache
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.RazorAssemblyInfo.cs
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.AssemblyInfoInputs.cache
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.AssemblyInfo.cs
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.RazorTargetAssemblyInfo.cache
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.dll
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.pdb
+D:\Repos\.NetCore\WebApi\SkmWebApi\SkmWebApi\obj\Debug\netcoreapp2.1\SkmWebApi.csprojAssemblyReference.cache
