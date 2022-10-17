@@ -47,10 +47,10 @@ namespace NZWalkAPISKM.Controllers
         public async Task<IActionResult> AddRegionAsync(Models.DTO.AddRegionRequest addRegionRequest)
         {
             // Validate The Request
-            if (!ValidateAddRegionAsync(addRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ValidateAddRegionAsync(addRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
             // Request(DTO) to Domain model
             var region = new Models.Domain.Region()
